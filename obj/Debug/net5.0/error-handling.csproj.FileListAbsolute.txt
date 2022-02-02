@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/error-handling.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/error-handling.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/error-handling.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/error-handling.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/ref/error-handling.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/bin/Debug/net5.0/error-handling.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/ref/error-handling.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/error-handling/obj/Debug/net5.0/error-handling.genruntimeconfig.cache
